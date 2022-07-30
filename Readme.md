@@ -15,7 +15,7 @@ I created this simple project with html, css and javascript. In this project I u
 
 ## Demo
 
-Insert gif or link to demo
+![Screenshot (148)](https://user-images.githubusercontent.com/93200960/181916159-c41acbf8-6129-4a84-a4b7-f591c0a94d84.png)
 
 ## Contributing
 
