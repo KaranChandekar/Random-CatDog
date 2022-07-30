@@ -56,9 +56,20 @@ body {
 }
 
 .button:active {
-    transform: scale(0.98);
+  transform: scale(0.98);
 }
 
 .button:focus {
-    outline: none;
+  outline: none;
+}
+
+@media (max-width: 700px) {
+  .main {
+    display: inline-block;
+    margin: auto;
+  }
+
+  .buttons {
+    flex-direction: column;
+  }
 }
