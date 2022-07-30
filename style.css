@@ -67,9 +67,19 @@ body {
   .main {
     display: inline-block;
     margin: auto;
+    height: 100vh;
+  }
+
+  .placeholder {
+    height: 350px;
+    width: 300px;
   }
 
   .buttons {
     flex-direction: column;
+  }
+
+  .button {
+    width: 300px;
   }
 }
