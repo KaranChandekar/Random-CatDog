@@ -37,3 +37,28 @@ body {
   height: 100%;
   width: 100%;
 }
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  background-color: #ef5b0c;
+  border: 0;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+}
+
+.button:active {
+    transform: scale(0.98);
+}
+
+.button:focus {
+    outline: none;
+}
