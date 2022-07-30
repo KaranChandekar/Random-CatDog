@@ -31,3 +31,9 @@ body {
   height: 400px;
   width: 300px;
 }
+
+.placeholder img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
